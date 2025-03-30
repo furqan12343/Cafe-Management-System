@@ -1,0 +1,8 @@
+Choci 200 80
+KitKat 150 65
+Samosa 100 60
+Coffee 120 30
+Zinger-Burger 220 50
+Goll-Gappy 240 65
+Dhai-Balla 300 50
+Biryani 150 45
